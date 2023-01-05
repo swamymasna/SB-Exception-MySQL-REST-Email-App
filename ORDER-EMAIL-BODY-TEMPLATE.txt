@@ -1,0 +1,14 @@
+
+Welcome : {USER}
+
+Thank You For Choosing SM Shopping Kart..!
+
+Your Order Details Are :
+
+Order Id : {ORDER-ID},
+Order Name : {ORDER-NAME},
+Qty : {QTY},
+Price : {PRICE}
+
+Thanks Regarding.,
+SM Shopping Kart..!
